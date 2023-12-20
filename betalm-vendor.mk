@@ -431,6 +431,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/betalm/proprietary/vendor/etc/sensors/registry/registry/sensors_registry:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/registry/registry/sensors_registry \
     vendor/lge/betalm/proprietary/vendor/etc/sensors/registry/registry/sensors_settings:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/registry/registry/sensors_settings \
     vendor/lge/betalm/proprietary/vendor/etc/sensors/sns_reg_config:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/sns_reg_config \
+    vendor/lge/betalm/proprietary/vendor/etc/thermal-engine-8150.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine-8150.conf \
     vendor/lge/betalm/proprietary/vendor/etc/wifi/GLOBAL/bdwlan.bin:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/GLOBAL/bdwlan.bin \
     vendor/lge/betalm/proprietary/vendor/etc/wifi/GLOBAL/bdwlan_ch0.bin:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/GLOBAL/bdwlan_ch0.bin \
     vendor/lge/betalm/proprietary/vendor/etc/wifi/GLOBAL/bdwlan_ch1.bin:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/GLOBAL/bdwlan_ch1.bin \
